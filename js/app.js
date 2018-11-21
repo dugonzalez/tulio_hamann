@@ -33,7 +33,7 @@
 					}  
 				},
 				marker:{
-					address: "São Paulo",
+					address: "40 Sibley St, Detroit",
 				}
 			},
 			"autofit" );
